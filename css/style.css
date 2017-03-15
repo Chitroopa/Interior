@@ -35,3 +35,12 @@ img {
   width: 300px;
   height: auto;
 }
+
+.decor2 h1 {
+  font-style: italic;
+}
+
+.decor1 p a {
+  color : red;
+  font-size: 24px;
+}
